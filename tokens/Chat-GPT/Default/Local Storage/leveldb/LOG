@@ -1,2 +1,3 @@
-2023/03/06-01:31:08.101 4cd0 Creating DB C:\Users\rafae\OneDrive\Documents\wpp-bot\tokens\Chat-GPT\Default\Local Storage\leveldb since it was missing.
-2023/03/06-01:31:08.107 4cd0 Reusing MANIFEST C:\Users\rafae\OneDrive\Documents\wpp-bot\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/03/06-01:37:53.232 5918 Reusing MANIFEST C:\Users\rafae\OneDrive\Documents\wpp-bot\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/03/06-01:37:53.233 5918 Recovering log #3
+2023/03/06-01:37:53.233 5918 Reusing old log C:\Users\rafae\OneDrive\Documents\wpp-bot\tokens\Chat-GPT\Default\Local Storage\leveldb/000003.log 
